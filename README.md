@@ -51,8 +51,8 @@ This project is a simple document scanner and Optical Character Recognition (OCR
 - **Main Loop**: Captures video frames, processes them, and handles user inputs for saving scans and performing OCR.
 
 ## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+youtube video from 'Giovanni Code'
+good practice for me
 
 ## Acknowledgements
 
